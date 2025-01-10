@@ -1,5 +1,6 @@
 {
-    "ORDER_COUNT": 4,
+    "ORDER_COUNT": 1,
+    "B_COUNT": 3, 
     "TOTAL_COUNT":  5,
     "ACOUNT_BALANCE": 1000,
     "STOP_PRICE": 800,
