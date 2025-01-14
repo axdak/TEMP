@@ -6,5 +6,7 @@
     "STOP_PRICE": 800,
     "MAIN_STOP": 80,
     "SECOND_STOP": 60,
-    "SLEEP_TIME": 80
+    "SLEEP_TIME": 80,
+    "MARK_TYPE": "SHORT",
+    "ORDER_TYPE": "x" 
 }
