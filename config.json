@@ -7,6 +7,6 @@
     "MAIN_STOP": 80,
     "SECOND_STOP": 30,
     "SLEEP_TIME": 80,
-    "MARK_TYPE": "LONG",
+    "MARK_TYPE": "SHORT",
     "ORDER_TYPE": "x" 
 }
