@@ -3,7 +3,7 @@
     "B_COUNT": 3, 
     "TOTAL_COUNT":  5,
     "ACOUNT_BALANCE": 2000,
-    "STOP_PRICE": 800,
+    "STOP_PRICE": 700,
     "MAIN_STOP": 80,
     "SECOND_STOP": 30,
     "SLEEP_TIME": 80,
