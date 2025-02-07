@@ -5,7 +5,7 @@
     "ACOUNT_BALANCE": 2000,
     "STOP_PRICE": 700,
     "MAIN_STOP": 80,
-    "SECOND_STOP": 30,
+    "SECOND_STOP": 40,
     "SLEEP_TIME": 80,
     "MARK_TYPE": "LONG",
     "ORDER_TYPE": "x" ,
