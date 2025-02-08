@@ -3,7 +3,7 @@
     "ORDER_TYPE": "X" ,
     "ACOUNT_BALANCE": 2000,
     "SLEEP_TIME": 80,
-    "MIN_TYPE"：{
+    "MIN_TYPE":{
         "ORDER_COUNT": 4,
         "B_COUNT": 3, 
         "TOTAL_COUNT":  5,
@@ -12,7 +12,7 @@
         "SECOND_STOP": 40,
         "TAKE_PROFIT": 200
     },
-   "MAX_TYPE"：{
+   "MAX_TYPE":{
         "ORDER_COUNT": 4,
         "B_COUNT": 3, 
         "TOTAL_COUNT":  5,
