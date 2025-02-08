@@ -1,13 +1,24 @@
 {
-    "ORDER_COUNT": 4,
-    "B_COUNT": 3, 
-    "TOTAL_COUNT":  5,
-    "ACOUNT_BALANCE": 2000,
-    "STOP_PRICE": 700,
-    "MAIN_STOP": 80,
-    "SECOND_STOP": 40,
-    "SLEEP_TIME": 80,
     "MARK_TYPE": "LONG",
-    "ORDER_TYPE": "x" ,
-    "TAKE_PROFIT": 500
+    "ORDER_TYPE": "X" ,
+    "ACOUNT_BALANCE": 2000,
+    "SLEEP_TIME": 80,
+    "MIN_TYPE"：{
+        "ORDER_COUNT": 4,
+        "B_COUNT": 3, 
+        "TOTAL_COUNT":  5,
+        "STOP_PRICE": 700,
+        "MAIN_STOP": 80,
+        "SECOND_STOP": 40,
+        "TAKE_PROFIT": 200
+    },
+   "MAX_TYPE"：{
+        "ORDER_COUNT": 4,
+        "B_COUNT": 3, 
+        "TOTAL_COUNT":  5,
+        "STOP_PRICE": 700,
+        "MAIN_STOP": 80,
+        "SECOND_STOP": 40,
+        "TAKE_PROFIT": 700
+    }
 }
