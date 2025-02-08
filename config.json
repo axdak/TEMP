@@ -9,5 +9,5 @@
     "SLEEP_TIME": 80,
     "MARK_TYPE": "LONG",
     "ORDER_TYPE": "x" ,
-    "TAKE_PROFIT": 1000
+    "TAKE_PROFIT": 500
 }
