@@ -10,7 +10,7 @@
         "STOP_PRICE": 500,
         "MAIN_STOP": 80,
         "SECOND_STOP": 20,
-        "TAKE_PROFIT": 150
+        "TAKE_PROFIT": 400
     },
    "MAX_TYPE":{
         "ORDER_COUNT": 4,
