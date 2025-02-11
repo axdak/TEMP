@@ -9,7 +9,7 @@
         "TOTAL_COUNT":  3,
         "STOP_PRICE": 700,
         "MAIN_STOP": 50,
-        "SECOND_STOP": 50,
+        "SECOND_STOP": 20,
         "TAKE_PROFIT": 100
     },
    "MAX_TYPE":{
