@@ -8,8 +8,8 @@
         "B_COUNT": 2, 
         "TOTAL_COUNT":  3,
         "STOP_PRICE": 500,
-        "MAIN_STOP": 80,
-        "SECOND_STOP": 20,
+        "MAIN_STOP": 50,
+        "SECOND_STOP": 15,
         "TAKE_PROFIT": 160
     },
    "MAX_TYPE":{
