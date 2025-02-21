@@ -1,5 +1,5 @@
 {
-    "MARK_TYPE": "LONG",
+    "MARK_TYPE": "SHORT",
     "ORDER_TYPE": "X" ,
     "ACOUNT_BALANCE": 2000,
     "SLEEP_TIME": 80,
