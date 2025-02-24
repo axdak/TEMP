@@ -12,7 +12,7 @@
         "B_COUNT": 3, 
         "TOTAL_COUNT":  5,
         "STOP_PRICE": 500,
-        "MAIN_STOP": 60,
+        "MAIN_STOP": 70,
         "SECOND_STOP": 15,
         "TAKE_PROFIT": 160
     },
