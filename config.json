@@ -3,7 +3,7 @@
     "NOT_1_1": "并且调整风格要有后续预案",
     "NOT_2": "震荡行情不准加仓",
     "NOT_3": "加仓仓位要根据X或L进行调整",
-    "MARK_TYPE": "E",
+    "MARK_TYPE": "SHORT",
     "ORDER_TYPE": "L" ,
     "ACOUNT_BALANCE": 2000,
     "SLEEP_TIME": 80,
