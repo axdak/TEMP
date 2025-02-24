@@ -1,6 +1,6 @@
 {
-  "triggerPrice": null,
-  "callbackPriceUp": null,
+  "triggerPrice": 94000,
+  "callbackPriceUp": 95000,
   "callbackPriceDown": null,
   "triggerPriceDown": null
 }
