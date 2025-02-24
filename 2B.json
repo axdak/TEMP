@@ -2,5 +2,5 @@
   "triggerPrice": null,
   "callbackPriceUp": null,
   "callbackPriceDown": 95000,
-  "triggerPriceDown": 94000
+  "triggerPriceDown": 94001
 }
